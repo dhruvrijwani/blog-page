@@ -380,7 +380,7 @@ li::marker {
   }
 
   @media (max-width:768px) {
-    .blog-card{
+    .blog{
         padding: 25px 0px;
     }
   }
