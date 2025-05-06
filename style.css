@@ -378,3 +378,9 @@ li::marker {
       display: block;
     }
   }
+
+  @media (max-width:768px) {
+    .blog-card{
+        padding: 25px 0px;
+    }
+  }
