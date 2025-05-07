@@ -58,8 +58,13 @@ img{
 }
 
 .logo img {
-    height: 7vh
+  max-height: 60px;
+  height: auto;
+  width: auto;
+  object-fit: contain;
+  display: block;
 }
+
 
 .logo-wrap {
   width: auto;
