@@ -62,10 +62,13 @@ img{
 }
 
 .logo-wrap {
-    width: 100%;
-    display: flex;
-    justify-content: center;
+  width: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 1rem;
 }
+
 
 
 
